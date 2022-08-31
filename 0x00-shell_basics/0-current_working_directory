@@ -1,0 +1,3 @@
+#!/bin/bash
+pwd
+#this code is for checking the current working directory using shell
