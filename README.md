@@ -1,1 +1,1 @@
-Working on learning shell
+This is my directory of alx learning 
